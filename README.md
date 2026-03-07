@@ -39,9 +39,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="60" height="60"/>
 </div>
 
-<br/>
-
-### :fire: Stats :
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dezmoraalb/Dezmoraalb/output/github-contribution-grid-snake-dark.svg?v=1"/>
