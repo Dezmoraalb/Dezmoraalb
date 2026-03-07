@@ -59,7 +59,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ### 🐍 Contribution Snake :
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dezmoraalb/Dezmoraalb/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dezmoraalb/Dezmoraalb/output/github-contribution-grid-snake-dark.svg?v=1"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dezmoraalb/Dezmoraalb/output/github-contribution-grid-snake.svg?v=1"/>
+    <img src="https://raw.githubusercontent.com/Dezmoraalb/Dezmoraalb/output/github-contribution-grid-snake.svg?v=1" alt="Snake animation"/>
+  </picture>
 </div>
 
 <br/>
