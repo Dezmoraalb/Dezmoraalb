@@ -1,5 +1,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Banner"/>
+  <br/><br/>
+  <a href="https://www.linkedin.com/in/pavlo-poluikhovych-09714131a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://t.me/pasha_polyuh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  <a href="mailto:pasha34523452@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://x.com/pasha_polyuh"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"/></a>
+  <br/><br/>
+  <a href="https://github.com/Dezmoraalb"><img src="https://komarev.com/ghpvc/?username=Dezmoraalb&style=for-the-badge&color=2eb67d" alt="Profile Views"/></a>
 </div>
 
 ### :man_technologist: About Me :
@@ -9,12 +16,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :telescope: I’m currently working on my personal portfolio **[dezmolio](https://github.com/Dezmoraalb/dezmolio)** and IT studio **[WebEngine Studio](https://webengine.studio/uk)**.
 - :seedling: I love learning about scalable frontend architectures and backend optimizations.
 - :zap: In my free time, I develop creative side projects like Telegram bots and various useful services.
-- :mailbox: How to reach me: 
-  <br/>
-  <a href="mailto:pasha34523452@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
-  <a href="https://t.me/pasha_polyuh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
-  <a href="https://www.linkedin.com/in/pavlo-poluikhovych-09714131a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="https://x.com/pasha_polyuh"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X Badge"/></a>
+- :mailbox: How to reach me: **Drop me a message on any of the social links above!**
 
 <br/>
 
