@@ -1,67 +1,43 @@
-👋 Hello, I'm Dezmoraalb
-## 💻 Python Full-Stack Developer | 🤖 Telegram Bot Creator
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Banner"/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dezmoraalb&color=brightgreen)
+### :man_technologist: About Me :
 
-I'm a Python developer with 2.5 years of experience, specializing in Telegram bot development, automation, and web development. Currently a 1st-year student at Kyiv Polytechnic Institute (KPI) studying Software Engineering.
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> passionate about building modern web applications and exploring new technologies.
 
-## 🔧 Technical Skills
+- :telescope: I’m currently working on my personal portfolio **[dezmolio](https://github.com/Dezmoraalb/dezmolio)** and IT studio **[WebEngine Studio](https://webengine.studio/uk)**.
+- :seedling: I love learning about scalable frontend architectures and backend optimizations.
+- :zap: In my free time, I develop creative side projects like Telegram bots and various useful services.
+- :mailbox: How to reach me: 
+  <br/>
+  <a href="mailto:pasha34523452@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="https://t.me/pasha_polyuh"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/></a>
+  <a href="https://www.linkedin.com/in/pavlo-poluikhovych-09714131a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://x.com/pasha_polyuh"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X Badge"/></a>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![OOP](https://img.shields.io/badge/-OOP-3776AB?style=flat&logo=python&logoColor=white)
-![Aiogram](https://img.shields.io/badge/-Aiogram-26A5E4?style=flat&logo=telegram&logoColor=white)
-![Telegram MiniApps](https://img.shields.io/badge/-Telegram_MiniApps-26A5E4?style=flat&logo=telegram&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-FCA121?style=flat&logo=sqlalchemy&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![Botasaurus](https://img.shields.io/badge/-Botasaurus-FF6F00?style=flat&logo=python&logoColor=white)
-![Asyncio](https://img.shields.io/badge/-Asyncio-3776AB?style=flat&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<br/>
 
-## 🚀 My Projects
+### :hammer_and_wrench: Languages and Tools :
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/astro/astro-original.svg" title="Astro" alt="Astro" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+</div>
 
-### [Glyanets](https://t.me/glyanets_robot)
-A Telegram bot for dating and photo rating (t.me/glyanets_robot)
+<br/>
 
-### [MorphAI](https://github.com/Dezmoraalb/MorphAI)
-A Telegram bot for face swapping in photos using InsightFace technology
-
-### Voice Chat in Telegram
-Integration of FastAPI with Telegram MiniApps
-
-### Digital Goods Store
-Automated sales system with admin panel
-
-### Crypto Team Automation
-Specialized scripts for working with cryptocurrency projects
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dezmoraalb&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dezmoraalb&layout=compact&theme=radical)
-
-## 📫 Contact Me
-
-- 📧 Email: [pasha34523452@gmail.com](mailto:pasha34523452@gmail.com)
-- 💬 Telegram: [@pasha_polyuh](https://t.me/pasha_polyuh)
-- 💼 LinkedIn: [Pavlo Poliukhovych](https://www.linkedin.com/in/pavlo-poluikhovych-09714131a/)
-
-## 🎓 Education
-
-**National Technical University of Ukraine "Igor Sikorsky Kyiv Polytechnic Institute"**
-- Faculty of Applied Mathematics
-- Major: Software Engineering
-- 2023-2029
-
-## 🌟 Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/Dezmoraalb/count.svg)
-
----
-
-⭐️ From [Dezmoraalb](https://github.com/Dezmoraalb)
+### :fire: My Stats :
+<div align="center">
+  <a href="https://github.com/Dezmoraalb"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dezmoraalb&theme=dark&background=000000" alt="GitHub Streak"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezmoraalb&theme=dark" alt="Top Langs"/>
+</div>
