@@ -38,8 +38,29 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br/>
 
+### 🏆 GitHub Trophies :
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dezmoraalb&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Dezmoraalb's Trophies"/></a>
+</div>
+
+<br/>
+
 ### :fire: My Stats :
 <div align="center">
   <a href="https://github.com/Dezmoraalb"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dezmoraalb&theme=dark&background=000000" alt="GitHub Streak"/></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dezmoraalb&theme=dark" alt="Top Langs"/>
+</div>
+
+<br/>
+
+### 🐍 Contribution Snake :
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Dezmoraalb/Dezmoraalb/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</div>
+
+<br/>
+
+### 💬 Random Dev Quote :
+<div align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/></a>
 </div>
