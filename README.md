@@ -41,23 +41,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <br/>
 
-<!-- Temporarily disabled as the API is down
-### 🏆 GitHub Trophies :
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Dezmoraalb&theme=onedark&no-frame=true&no-bg=true&margin-w=15" alt="Dezmoraalb's Trophies"/></a>
-</div>
--->
-
-<br/>
-
-### :fire: My Stats :
-<div align="center">
-  <a href="https://github.com/Dezmoraalb"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dezmoraalb&theme=dark&background=000000" alt="GitHub Streak"/></a>
-</div>
-
-<br/>
-
-### 🐍 Contribution Snake :
+### :fire: Stats :
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dezmoraalb/Dezmoraalb/output/github-contribution-grid-snake-dark.svg?v=1"/>
@@ -66,9 +50,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </picture>
 </div>
 
-<br/>
-
-### 💬 Random Dev Quote :
-<div align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/></a>
-</div>
